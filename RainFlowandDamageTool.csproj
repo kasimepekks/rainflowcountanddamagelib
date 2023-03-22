@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<LangVersion>10.0</LangVersion>
+	<Authors>YXH</Authors>
+	<Description>RainFlow and Damage</Description>
+	<Version>1.0.1</Version>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <None Remove="RainFlowCountingMethod\RainFlowCounting.cs~RF90f725.TMP" />
+  </ItemGroup>
+
+</Project>

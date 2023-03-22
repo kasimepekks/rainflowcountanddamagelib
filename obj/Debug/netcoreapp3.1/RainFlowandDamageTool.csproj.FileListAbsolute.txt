@@ -1,0 +1,10 @@
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.csproj.AssemblyReference.cache
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.AssemblyInfoInputs.cache
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.AssemblyInfo.cs
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.csproj.CoreCompileInputs.cache
+D:\VS_Project\SourceCode\RainFlowandDamageTool\bin\Debug\netcoreapp3.1\RainFlowandDamageTool.deps.json
+D:\VS_Project\SourceCode\RainFlowandDamageTool\bin\Debug\netcoreapp3.1\RainFlowandDamageTool.dll
+D:\VS_Project\SourceCode\RainFlowandDamageTool\bin\Debug\netcoreapp3.1\RainFlowandDamageTool.pdb
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.dll
+D:\VS_Project\SourceCode\RainFlowandDamageTool\obj\Debug\netcoreapp3.1\RainFlowandDamageTool.pdb

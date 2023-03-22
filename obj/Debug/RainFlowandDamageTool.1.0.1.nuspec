@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RainFlowandDamageTool</id>
+    <version>1.0.1</version>
+    <authors>YXH</authors>
+    <description>RainFlow and Damage</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\VS_Project\SourceCode\RainFlowandDamageTool\bin\Debug\netcoreapp3.1\RainFlowandDamageTool.dll" target="lib\netcoreapp3.1\RainFlowandDamageTool.dll" />
+  </files>
+</package>
