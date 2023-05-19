@@ -7,7 +7,7 @@
 	<LangVersion>10.0</LangVersion>
 	<Authors>YXH</Authors>
 	<Description>RainFlow and Damage</Description>
-	<Version>1.0.1</Version>
+	<Version>1.0.2</Version>
   </PropertyGroup>
 	
   <ItemGroup>

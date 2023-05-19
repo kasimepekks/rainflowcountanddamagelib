@@ -14,8 +14,9 @@ namespace RainFlowandDamageTool.RainFlowCountingMethod
         /// </summary>
         /// <param name="data">雨流数据源</param>
         /// <returns></returns>
-        public static LinkedList<RainFlowResult> GetDamage(this LinkedList<RainFlowResult> data)
+        public static LinkedList<RainFlowResult> GetDamage(this LinkedList<RainFlowResult> data,double k1,double k2)
         {
+            SNCurvePara.EditSNPara(k1, k2);
             if (data.Count > 0)
             {
                 foreach (var i in data)

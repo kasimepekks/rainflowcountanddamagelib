@@ -29,16 +29,16 @@ namespace RainFlowandDamageTool.Models
         /// <param name="ne"></param>
         /// <param name="bins"></param>
         /// <param name="filter"></param>
-        public static void EditSNPara(double smax, double s1, double se, double k1, double k2, double ne, double bins, double filter)
+        public static void EditSNPara( double k1, double k2)
         {
-            Smax = smax;
-            S1 = s1;
-            SE = se;
+            //Smax = smax;
+            //S1 = s1;
+            //SE = se;
             K1 = k1;
             K2 = k2;
-            NE = ne;
-            Bins = bins;
-            Filter = filter;
+            //NE = ne;
+            //Bins = bins;
+            //Filter = filter;
             N1 = Math.Max(NE * Math.Pow(S1 / SE, -K2), 1);
 
         }
